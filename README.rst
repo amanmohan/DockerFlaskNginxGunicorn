@@ -123,9 +123,9 @@ Example json data:
 	}
 
 
-.. image:: https://github.com/amanmohan/automation_master_minions/blob/master/screen_shots/page.png?raw=true
-.. image:: https://github.com/amanmohan/automation_master_minions/blob/master/screen_shots/post.png?raw=true
-.. image:: https://github.com/amanmohan/automation_master_minions/blob/master/screen_shots/get.png?raw=true
+.. image:: https://github.com/amanmohan/DockerFlaskNginxGunicorn/blob/master/screen_shots/page.png?raw=true
+.. image:: https://github.com/amanmohan/DockerFlaskNginxGunicorn/blob/master/screen_shots/post.png?raw=true
+.. image:: https://github.com/amanmohan/DockerFlaskNginxGunicorn/blob/master/screen_shots/get.png?raw=true
 
 
 Documentation
