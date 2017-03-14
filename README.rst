@@ -89,13 +89,13 @@ Clone this repo:
 
 .. code-block:: console
 
-    $ git clone git@github.com:manmohana/Loan-Submission-Form.git
+    $ git clone https://github.com/amanmohan/DockerFlaskNginxGunicorn.git
 
 Use the vagrant file from cloned file to create Master and Minions VM:
 
 .. code-block:: console
 
-    $ git clone git@github.com:manmohana/Loan-Submission-Form.git
+    $ git clone https://github.com/amanmohan/DockerFlaskNginxGunicorn.git
 
 Install SaltStack as instructed in installation.
 
