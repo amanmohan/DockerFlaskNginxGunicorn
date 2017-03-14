@@ -95,7 +95,7 @@ Use the vagrant file from cloned file to create Master and Minions VM:
 
 .. code-block:: console
 
-    $ git clone https://github.com/amanmohan/DockerFlaskNginxGunicorn.git
+    $ vagrant up
 
 Install SaltStack as instructed in installation.
 
